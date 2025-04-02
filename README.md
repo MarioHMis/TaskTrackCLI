@@ -1,70 +1,65 @@
-TaskTrackCLI
+TaskTrackCLI 🚀
 
-TaskTrackCLI es una aplicación de línea de comandos (CLI) desarrollada en Java 17 que permite gestionar tareas de manera sencilla. Utiliza Maven para la gestión de dependencias y Gson para la manipulación de datos en formato JSON.
+TaskTrackCLI is a command-line application (CLI) developed in Java 17 that allows easy task management. It uses Maven for dependency management and Gson for handling JSON data.
 
-Características
+📌 Features
 
-Crear, listar, actualizar y eliminar tareas.
+✅ Create, list, update, and delete tasks.✅ Store tasks in a JSON file.✅ Simple command-line interface.
 
-Almacenar tareas en un archivo JSON.
+🛠 Requirements
 
-Interfaz sencilla basada en la línea de comandos.
+☕ Java 17 or later.
 
-Requisitos
+🏗 Maven 3 or later.
 
-Java 17 o superior.
+📥 Installation
 
-Maven 3 o superior.
-
-Instalación
-
-Clona este repositorio:
+Clone this repository:
 
 git clone https://github.com/MarioHMis/TaskTrackCLI.git
 
-Accede al directorio del proyecto:
+Navigate to the project directory:
 
 cd TaskTrackCLI
 
-Compila el proyecto con Maven:
+Compile the project with Maven:
 
 mvn clean install
 
-Uso
+▶️ Usage
 
-Ejecuta la aplicación con el siguiente comando:
+Run the application with the following command:
 
 java -jar target/tasktrackcli.jar
 
-Desde ahí, podrás interactuar con la aplicación siguiendo las instrucciones en pantalla.
+From there, you can interact with the application following the on-screen instructions.
 
-Tecnologías utilizadas
+💻 Technologies Used
 
-Java 17: Lenguaje de programación principal.
+Java 17 - Main programming language.
 
-Maven: Gestión de dependencias y compilación.
+Maven - Dependency management and compilation.
 
-Gson: Manipulación de datos en JSON.
+Gson - JSON data handling.
 
-Contribuciones
+🤝 Contributions
 
-Si deseas contribuir al proyecto, sigue estos pasos:
+If you want to contribute to the project, follow these steps:
 
-Haz un fork del repositorio.
+🔄 Make a fork of the repository.
 
-Crea una nueva rama (git checkout -b feature-nueva).
+🛠 Create a new branch (git checkout -b feature-new).
 
-Realiza tus modificaciones y confirma los cambios (git commit -m 'Añadir nueva característica').
+💾 Make your changes and commit them (git commit -m 'Add new feature').
 
-Sube los cambios a tu fork (git push origin feature-nueva).
+🚀 Push your changes to your fork (git push origin feature-new).
 
-Abre un Pull Request.
+🔁 Open a Pull Request.
 
-Licencia
+📜 License
 
-Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
+This project is licensed under MIT. See the LICENSE file for more details.
 
-Autor
+👨‍💻 Author
 
 MarioHMisGitHub
-
