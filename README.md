@@ -1,6 +1,6 @@
 TaskTrackCLI 🚀
 
-TaskTrackCLI is a command-line application (CLI) developed in Java 17 that allows easy task management. It uses Maven for dependency management and Gson for handling JSON data.
+TaskTrackCLI is a command-line application (CLI) developed in Java 17 that allows easy task management. It uses Maven for dependency management and Gson for handling JSON data. by https://roadmap.sh/projects/task-tracker
 
 📌 Features
 
@@ -17,6 +17,7 @@ TaskTrackCLI is a command-line application (CLI) developed in Java 17 that allow
 Clone this repository:
 
 git clone https://github.com/MarioHMis/TaskTrackCLI.git
+
 
 Navigate to the project directory:
 
